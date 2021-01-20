@@ -20,3 +20,9 @@
 
 //  //Show results 
 //  console.log("You've earned " + result + "points!")
+let result = 0;
+let answer1 = confirm("what is the official name of JavaScript?");
+
+if (answer1){
+    result = result + 5;
+}
