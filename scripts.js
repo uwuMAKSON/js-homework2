@@ -46,5 +46,10 @@ if (answer9) {
     result = result + 10;
 }
 
+let answer10 = confirm("teacher Elaman is a very good teacher");
+if (answer10) {
+    result = result + 10;
+}
+
 //Show results 
 console.log("You've earned " + result + " points!");
