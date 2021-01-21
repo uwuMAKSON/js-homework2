@@ -20,7 +20,12 @@ if (answer3) {
     result = result2 + result3 + 10;
 }
 
+let result4 = 10;
+let answer4 = confirm("which HTML tag is used for paragraphs?");
 
+if (answer4) {
+    result = result4 + result3 + 10;
+}
 
 
 
