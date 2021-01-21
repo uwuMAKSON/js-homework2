@@ -26,10 +26,10 @@ if (answer5) {
     result = result + 10;
 }
 
-// let answer6 = confirm("JavaScript is a programming language?");
-// if (answer6) {
-//     result = result + 10;
-// }
+let answer6 = confirm("JavaScript is a programming language?");
+if (answer6) {
+    result = result + 10;
+}
 
 // let answer7 = confirm("html and css is this site layout?");
 // if (answer7) {
