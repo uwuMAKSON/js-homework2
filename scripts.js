@@ -41,15 +41,10 @@ if (answer8) {
     result = result + 10;
 }
 
-// let answer9 = confirm("div is a block element");
-// if (answer9) {
-//     result = result + 10;
-// }
-
-// let answer10 = confirm("practice for a programmer");
-// if (answer10) {
-//     result = result + 10;
-// }
+let answer9 = confirm("practice for a programmer");
+if (answer9) {
+    result = result + 10;
+}
 
 //Show results 
 console.log("You've earned " + result + " points!");
