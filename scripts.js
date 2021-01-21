@@ -31,10 +31,10 @@ if (answer6) {
     result = result + 10;
 }
 
-// let answer7 = confirm("html and css is this site layout?");
-// if (answer7) {
-//     result = result + 10;
-// }
+let answer7 = confirm("html and css is this site layout?");
+if (answer7) {
+    result = result + 10;
+}
 
 // let answer8 = confirm("needed english for a programmer");
 // if (answer8) {
